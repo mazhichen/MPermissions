@@ -1,10 +1,12 @@
 <component name="libraryTable">
   <library name="mpermission-api-1.0.0">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/permission-sample/build/intermediates/exploded-aar/com.zhy/mpermission-api/1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/permission-sample/build/intermediates/exploded-aar/com.zhy/mpermission-api/1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a0519f63ae5fa9f1c8363d96a1272782007eb15a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a0519f63ae5fa9f1c8363d96a1272782007eb15a/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/mpermission-api/1.0.0/82d0ce7978e76dc309143df2751403a23390c64d/mpermission-api-1.0.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

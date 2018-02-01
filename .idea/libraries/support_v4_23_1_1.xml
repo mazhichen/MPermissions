@@ -1,16 +1,13 @@
 <component name="libraryTable">
   <library name="support-v4-23.1.1">
-    <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/permission-sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/annotations.zip!/" />
-    </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/permission-sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/res" />
-      <root url="jar://$PROJECT_DIR$/permission-sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/permission-sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/23de0b62e759c4ba436004f00b1532a67146c07d/output/jars/libs/internal_impl-23.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/23de0b62e759c4ba436004f00b1532a67146c07d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/23de0b62e759c4ba436004f00b1532a67146c07d/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/android/sdk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1-sources.jar!/" />
+      <root url="jar://D:/androidstudio/sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
